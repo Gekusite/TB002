@@ -4,7 +4,7 @@
 <img src="https://vignette.wikia.nocookie.net/tibia/images/c/c4/Client_Artwork_8.0.jpg/revision/latest?cb=20130917194022&path-prefix=en" width="100" height="100">
 
 ## Description
-**Tibia 8.6 Map** is a Tibia map.
+**Tibia 8.6 Map** is a Tibia map from version 8.6.
 
 ## Download
 
